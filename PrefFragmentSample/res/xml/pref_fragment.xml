@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<preference-headers xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <header
+        android:fragment="com.example.preffragmentsample.MyPrefarenceFragment"
+        android:summary="Summary test"
+        android:title="Pref Title Test" />
+    <header
+        android:fragment="com.example.preffragmentsample.MyPrefarenceFragment2"
+        android:summary="Summary test2"
+        android:title="Pref Title Test2" />
+
+</preference-headers>
